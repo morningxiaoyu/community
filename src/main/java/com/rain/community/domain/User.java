@@ -9,6 +9,7 @@ import java.util.Date;
  * @description: 用户类
  * @date: 2021-11-05 22:23
  */
+//已修改
 @Data
 public class User {
 
